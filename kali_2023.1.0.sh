@@ -1,4 +1,6 @@
 #! /usr/bin/env bash
+# https://app.vagrantup.com/kalilinux/boxes/rolling
+
 echo Removing existing kali box from your vagrant environment
 vagrant box remove kali
 
